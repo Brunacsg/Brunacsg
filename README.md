@@ -3,7 +3,7 @@
 - Estudante de Analise e desenvolvimento de Sistemas
 
 Conhecimentos em : 
-- Desenvolvimento de cenários e rotiros de testes;
+- Desenvolvimento de cenários e roteiros de testes;
 - Realização de testes (manuais, funcionais, exploratórios, regressivos, E2E e aceitação)
 - Apontamento de melhorias - QA
 - Apontamento para correção de Bugs - QA
